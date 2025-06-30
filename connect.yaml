@@ -1,3 +1,3 @@
 deployAs:
-  - name: assets
+  - name: enabler
     applicationType: assets
